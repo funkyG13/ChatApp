@@ -1,0 +1,62 @@
+
+
+From: admin
+To: manager
+Message info:
+hi
+Thu Jan 17 16:49:50 EET 2019
+
+From: admin
+To: mike13
+Message info:
+gg
+Thu Jan 17 17:02:08 EET 2019
+
+From: admin
+To: mike13
+Message info:
+???? ???
+Thu Jan 17 17:02:31 EET 2019
+
+From: admin
+To: manager
+Message info:
+ναι οχι
+Thu Jan 17 17:13:03 EET 2019
+
+From: admin
+To: manager
+Message info:
+γεια σου
+Fri Jan 18 02:19:43 EET 2019
+
+From: supervisor
+To: admin
+Message info:
+hi
+Fri Jan 18 02:32:30 EET 2019
+
+From: admin
+To: manager
+Message info:
+γεια σου
+Fri Jan 18 18:28:33 EET 2019
+
+From: admin
+To: manager
+Message info:
+γεια
+Fri Jan 18 18:39:53 EET 2019
+
+From: admin
+To: manager
+Message info:
+γεια σου manager
+Fri Jan 18 20:25:10 EET 2019
+
+From: manager
+To: mike13
+Message info:
+sdagasdfg
+Fri Jan 18 20:28:30 EET 2019
+
